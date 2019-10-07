@@ -6,8 +6,8 @@
 
 body {
     overflow-x: hidden;
-    font-family: sofia-pro, "Roboto Slab","Helvetica Neue",Helvetica,Arial,sans-serif;
-    color: #{{ site.data.template.color.secondary-dark }};
+    font-family: {{ site.data.template.font.secondary }};
+    color: #{{ site.data.template.color.primary-light }};
 }
 
 .text-muted {
@@ -866,6 +866,10 @@ body {
   .container.xl {
     width: 90vw;
   }
+
+  .container.lg {
+    width: 70vw;
+  }
 }
 
 .border-btn {
@@ -897,8 +901,28 @@ body {
   }
 }
 
-#gallery {
+@media (min-width: 992px) {
+  #statement p {
+    font-size: 1vw;
+  }
+}
+
+.headshot {
+  overflow: hidden;
+  border-radius: 25px;
   padding: 0;
+  margin: auto;
+  box-shadow: 5px 5px 5px rgba(0,0,0,0.1);
+}
+
+@media (max-width: 991px) {
+  .headshot {
+    width: 50%;
+  }
+}
+
+.headshot>img {
+  width: 100%;
 }
 
 .gal-wrapper {
