@@ -1,0 +1,22 @@
+<!-- Gallery Section -->
+<section id="projects" class="text-center bg-light-gray">
+  <div class="container xl">
+    {% for i in (0..3) %}
+      <div class="col-md-3 col-sm-4 col-xs-6 project-item">
+        {% for project in page.projects %}
+          {% assign project-column = forloop.index | minus: 1 | modulo: 4 %}
+          {% if project-column == i %}
+            <a href="#projectModal{{ forloop.index }}" class="project-link" data-toggle="modal">
+                <div class="project-hover" style="background-color: {{project.bg-color}}">
+                    <div class="project-hover-content">
+                        <i class="fa fa-plus fa-3x"></i>
+                    </div>
+                </div>
+                <img src="{{ project.image | prepend: site.baseurl }}" class="img-responsive img-centered" alt="">
+            </a>
+          {% endif %}
+        {% endfor %}
+      </div>
+    {% endfor %}
+  </div>
+</section>
