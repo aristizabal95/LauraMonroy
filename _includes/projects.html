@@ -1,8 +1,9 @@
 <!-- Gallery Section -->
 <section id="projects" class="text-center bg-light-gray">
   <div class="container xl">
+    <!-- DISPLAY COLLAGE ON LARGE SCREENS -->
     {% for i in (0..3) %}
-      <div class="col-md-3 col-sm-4 col-xs-6 project-item">
+      <div class="col-md-3 hidden-sm hidden-xs project-item">
         {% for project in page.projects %}
           {% assign project-column = forloop.index | minus: 1 | modulo: 4 %}
           {% if project-column == i %}
@@ -18,5 +19,46 @@
         {% endfor %}
       </div>
     {% endfor %}
+    <!-- /DISPLAY COLLAGE ON LARGE SCREENS -->
+
+    <!-- DISPLAY COLLAGE ON SMALL SCREENS -->
+    {% for i in (0..2) %}
+    <div class="col-sm-4 hidden-md hidden-xs hidden-lg project-item">
+      {% for project in page.projects %}
+        {% assign project-column = forloop.index | minus: 1 | modulo: 3 %}
+        {% if project-column == i %}
+          <a href="#projectModal{{ forloop.index }}" class="project-link" data-toggle="modal">
+              <div class="project-hover" style="background-color: {{project.bg-color}}">
+                  <div class="project-hover-content">
+                      <i class="fa fa-plus fa-3x"></i>
+                  </div>
+              </div>
+              <img src="{{ project.image | prepend: site.baseurl }}" class="img-responsive img-centered" alt="">
+          </a>
+        {% endif %}
+      {% endfor %}
+    </div>
+  {% endfor %}
+  <!-- /DISPLAY COLLAGE ON SMALL SCREENS -->
+
+  <!-- DISPLAY COLLAGE ON EXTRASMALL SCREES -->
+  {% for i in (0..1) %}
+  <div class="col-xs-6 hidden-md hidden-sm hidden-lg project-item">
+    {% for project in page.projects %}
+    {% assign project-column = forloop.index | minus: 1 | modulo: 2 %}
+    {% if project-column == i %}
+    <a href="#projectModal{{ forloop.index }}" class="project-link" data-toggle="modal">
+      <div class="project-hover" style="background-color: {{project.bg-color}}">
+        <div class="project-hover-content">
+          <i class="fa fa-plus fa-3x"></i>
+        </div>
+      </div>
+      <img src="{{ project.image | prepend: site.baseurl }}" class="img-responsive img-centered" alt="">
+    </a>
+    {% endif %}
+    {% endfor %}
+  </div>
+  {% endfor %}
+<!-- /DISPLAY COLLAGE ON EXTRASMALL SCREENS -->
   </div>
 </section>
