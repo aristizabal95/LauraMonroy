@@ -999,3 +999,7 @@ body {
   border-radius: 50%;
   overflow: hidden;
 }
+
+hr {
+  margin: 5px 0;
+}

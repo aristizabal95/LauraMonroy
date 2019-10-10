@@ -1,6 +1,6 @@
 <!-- Gallery Section -->
 <section id="projects" class="text-center bg-light-gray">
-  <div class="container xl">
+  <div class="container">
     <!-- DISPLAY COLLAGE ON LARGE SCREENS -->
     {% for i in (0..3) %}
       <div class="col-md-3 hidden-sm hidden-xs project-item">
@@ -10,7 +10,9 @@
             <a href="#projectModal{{ forloop.index }}" class="project-link" data-toggle="modal">
                 <div class="project-hover" style="background-color: {{project.bg-color}}">
                     <div class="project-hover-content">
-                        <i class="fa fa-plus fa-3x"></i>
+                      <h6>{{project.title}}</h6>
+                      <hr/>
+                      <p>Ver imágenes <i class="fa fa-chevron-right"></i></p>
                     </div>
                 </div>
                 <img src="{{ project.image | prepend: site.baseurl }}" class="img-responsive img-centered" alt="">
