@@ -8,7 +8,7 @@
           {% assign project-column = forloop.index | minus: 1 | modulo: 4 %}
           {% if project-column == i %}
             <a href="#projectModal{{ forloop.index }}" class="project-link" data-toggle="modal">
-                <div class="project-hover" style="background-color: {{project.bg-color}}">
+                <div class="project-hover" style="background-color: {{project.bg_color}}">
                     <div class="project-hover-content">
                       <h6>{{project.title}}</h6>
                       <hr/>
@@ -30,7 +30,7 @@
         {% assign project-column = forloop.index | minus: 1 | modulo: 3 %}
         {% if project-column == i %}
           <a href="#projectModal{{ forloop.index }}" class="project-link" data-toggle="modal">
-              <div class="project-hover" style="background-color: {{project.bg-color}}">
+              <div class="project-hover" style="background-color: {{project.bg_color}}">
                   <div class="project-hover-content">
                       <i class="fa fa-plus fa-3x"></i>
                   </div>
@@ -50,7 +50,7 @@
     {% assign project-column = forloop.index | minus: 1 | modulo: 2 %}
     {% if project-column == i %}
     <a href="#projectModal{{ forloop.index }}" class="project-link" data-toggle="modal">
-      <div class="project-hover" style="background-color: {{project.bg-color}}">
+      <div class="project-hover" style="background-color: {{project.bg_color}}">
         <div class="project-hover-content">
           <i class="fa fa-plus fa-3x"></i>
         </div>
