@@ -5,7 +5,7 @@ title: Autoevaluación
 description: Sé que tengo las herramientas necesarias para acercarme a procesos de creación e investigación.
 header: |
   Artista escénica con énfasis en Danza y Somática.
-image: /images/evaluations/anaoviedo.jpeg
+image: /img/evaluations/anaoviedo.jpeg
 ---
 
 Siempre me interesé por la danza, primero por la tradicional colombiana y luego por la salsa, llegando a competir en categorías profesionales. Fue allí donde empecé a descubrir que el arte escénico era un camino hermoso para reconocerme a mí misma y al otro. Quise descubrir las innumerables posibilidades que me podía ofrecer mi cuerpo y la escena. En ese momento encontré la carrera de artes escénicas de la Pontificia Universidad Javeriana, comencé a estudiar en el primer semestre del 2015.

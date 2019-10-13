@@ -65,3 +65,7 @@ address:
 # Build settings
 markdown: kramdown
 permalink: pretty
+
+collections:
+  evaluations:
+    output: true
