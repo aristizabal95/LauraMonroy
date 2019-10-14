@@ -36,7 +36,7 @@ $('div.modal').on('show.bs.modal', function() {
 	}
 });
 
-('.carousel.thumbnail-indicator').on('slide.bs.carousel', function() {
+$('.carousel.thumbnail-indicator').on('slide.bs.carousel', function() {
   var carousel = this;
   setTimeout(function() {
     // Get the thumbnails
