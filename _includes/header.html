@@ -12,7 +12,7 @@
       {% if page.url == "/" %}
       <a class="navbar-brand page-scroll" href="#page-top">{{site.title}}</a>
       {% else %}
-      <a class="navbar-brand" href="/">{{site.title}}</a>
+      <a class="navbar-brand" href="{{ '/' | prepend: site.baseurl }}">{{site.title}}</a>
       {% endif %}
     </div>
 
