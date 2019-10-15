@@ -4,7 +4,7 @@
     <!-- DISPLAY COLLAGE ON LARGE SCREENS -->
     {% for i in (0..3) %}
       <div class="col-md-3 hidden-sm hidden-xs project-item">
-        {% for project in page.projects %}
+        {% for project in site.projects %}
           {% assign project-column = forloop.index | minus: 1 | modulo: 4 %}
           {% if project-column == i %}
             <a href="#projectModal{{ forloop.index }}" class="project-link" data-toggle="modal">
@@ -26,7 +26,7 @@
     <!-- DISPLAY COLLAGE ON SMALL SCREENS -->
     {% for i in (0..2) %}
     <div class="col-sm-4 hidden-md hidden-xs hidden-lg project-item">
-      {% for project in page.projects %}
+      {% for project in site.projects %}
         {% assign project-column = forloop.index | minus: 1 | modulo: 3 %}
         {% if project-column == i %}
           <a href="#projectModal{{ forloop.index }}" class="project-link" data-toggle="modal">
@@ -46,7 +46,7 @@
   <!-- DISPLAY COLLAGE ON EXTRASMALL SCREES -->
   {% for i in (0..1) %}
   <div class="col-xs-6 hidden-md hidden-sm hidden-lg project-item">
-    {% for project in page.projects %}
+    {% for project in site.projects %}
     {% assign project-column = forloop.index | minus: 1 | modulo: 2 %}
     {% if project-column == i %}
     <a href="#projectModal{{ forloop.index }}" class="project-link" data-toggle="modal">
