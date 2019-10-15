@@ -21,8 +21,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam aliquam risus q
 
 ### This is a subheading
 
-&nbsp;
-
 Nunc blandit nibh at ultricies tempor. Suspendisse iaculis in sapien gravida mattis. Nullam vestibulum, sem vel scelerisque sodales, ipsum nulla tincidunt lorem, at dictum mauris lorem eget tellus. Integer venenatis iaculis urna. Vestibulum mollis at sem rutrum fringilla. Nullam accumsan, dolor sit amet sagittis placerat, nibh erat posuere orci, non suscipit neque ex sed odio. Vestibulum vulputate malesuada ipsum sed sollicitudin. In luctus aliquam erat molestie consectetur. Sed eget nibh felis. Pellentesque arcu dolor, hendrerit vel sem eu, vestibulum aliquam dui.
 
 * List 1

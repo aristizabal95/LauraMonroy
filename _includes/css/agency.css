@@ -1010,3 +1010,7 @@ body {
 hr {
   margin: 5px 0;
 }
+
+article.project-content {
+  text-align: justify;
+}
