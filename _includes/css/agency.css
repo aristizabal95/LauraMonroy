@@ -358,8 +358,11 @@ section h3.section-subheading {
 #projects .project-item .project-link {
   display: block;
   position: relative;
+  overflow: hidden;
   margin: 0 auto 10px;
   max-width: 400px;
+  border-radius: 5px;
+  box-shadow: 5px 5px 5px rgba(0,0,0,0.1);
 }
 
 #projects .project-item .project-link .project-hover {
