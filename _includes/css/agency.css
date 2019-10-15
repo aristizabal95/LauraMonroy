@@ -181,14 +181,23 @@ fieldset[disabled] .btn-xl.active {
 }
 
 .navbar-default.navbar-shrink .navbar-brand>p {
-  margin-top: 0;
   line-height: 1;
+  font-size: 12px;
+}
+
+.navbar-default .navbar-brand>hr {
+  width: 100%;
+  border-top: 2px solid {{ site.data.template.color.skin }};
+  margin: 5px 0 0;
+}
+
+.navbar-default.navbar-shrink .navbar-brand>hr {
+  margin-top: 1px;
 }
 
 .navbar-default .navbar-brand>p {
   font-family: {{site.data.template.font.secondary}};
   text-transform: uppercase;
-  margin-top: 5px;
 }
 
 .navbar-default .navbar-brand:hover,
