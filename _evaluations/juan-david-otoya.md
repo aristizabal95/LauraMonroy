@@ -3,7 +3,7 @@ layout: evaluation
 name: Juan David Otoya
 title: Evaluación de Pares para Laura María Monroy-García
 description:
-header: Artista escénica con énfasis en Danza y Somática.
+header:
 image: /img/evaluations/ana_oviedo.jpg
 ---
 
