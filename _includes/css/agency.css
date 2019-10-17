@@ -380,7 +380,7 @@ section h3.section-subheading {
   text-transform: none;
 }
 
-#projects .project-item .project-link {
+ .project-item .project-link {
   display: block;
   position: relative;
   overflow: hidden;
@@ -390,7 +390,7 @@ section h3.section-subheading {
   box-shadow: 5px 5px 5px rgba(0,0,0,0.1);
 }
 
-#projects .project-item .project-link .project-hover {
+ .project-item .project-link .project-hover {
   position: absolute;
   width: 100%;
   height: 100%;
@@ -402,11 +402,11 @@ section h3.section-subheading {
   background: rgba({{ site.data.template.color.primary | hex_to_rgb | join: ',' }}, .9);
 }
 
-#projects .project-item .project-link .project-hover:hover {
+ .project-item .project-link .project-hover:hover {
   opacity: 0.9;
 }
 
-#projects .project-item .project-link .project-hover .project-hover-content {
+ .project-item .project-link .project-hover .project-hover-content {
   position: absolute;
   top: 50%;
   width: 100%;
@@ -417,16 +417,16 @@ section h3.section-subheading {
   color: #fff;
 }
 
-#projects .project-item .project-link .project-hover .project-hover-content i {
+ .project-item .project-link .project-hover .project-hover-content i {
   margin-top: -12px;
 }
 
-#projects .project-item .project-link .project-hover .project-hover-content h3,
-#projects .project-item .project-link .project-hover .project-hover-content h4 {
+ .project-item .project-link .project-hover .project-hover-content h3,
+ .project-item .project-link .project-hover .project-hover-content h4 {
   margin: 0;
 }
 
-#projects .project-item .project-caption {
+ .project-item .project-caption {
   margin: 0 auto;
   padding: 25px;
   max-width: 400px;
@@ -434,19 +434,19 @@ section h3.section-subheading {
   background-color: #fff;
 }
 
-#projects .project-item .project-caption h4 {
+ .project-item .project-caption h4 {
   margin: 0;
   text-transform: none;
 }
 
-#projects .project-item .project-caption p {
+ .project-item .project-caption p {
   margin: 0;
   font-family: {{ site.data.template.font.secondary }};
   font-size: 16px;
   font-style: italic;
 }
 
-#projects * {
+ * {
   z-index: 2;
 }
 
