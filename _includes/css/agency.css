@@ -1129,3 +1129,18 @@ article.project-content {
 .project-item .project-card {
   text-align: left;
 }
+
+.project-item .project-card h4 {
+  display: inline-block;
+  background-color: {{site.data.template.color.yellow}};
+  margin-bottom: 0;
+}
+
+.project-item .project-card h6 {
+  margin-top: 0;
+}
+
+.project-item .project-card svg {
+  fill: {{site.data.template.color.yellow}};
+  display:inline-block;
+}
