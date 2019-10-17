@@ -1,0 +1,28 @@
+<!-- Investigations Section -->
+<section id="investigations" class="text-center">
+  <div class="container">
+    <h2 class="section-heading editable">Investigaciones</h2>
+    {% for investigation in page.investigations %}
+    <div class="row project-item">
+      <div class="col-md-4 col-lg-4">
+        <a href="{{ investigation.path }}" class="project-link" data-toggle="modal" target="_blank">
+            <div class="project-hover" style="background-color: {{project.bg_color}}">
+                <div class="project-hover-content">
+                  <h6>{{investigation.title}}</h6>
+                  <hr/>
+                  <p>Leer <i class="fa fa-chevron-right"></i></p>
+                </div>
+            </div>
+            <img src="{{ investigation.image | prepend: site.baseurl }}" class="img-responsive img-centered" alt="">
+        </a>
+      </div>
+      <div class="col-md-8 col-lg-8 project-card">
+        <h5>{{investigation.title}}</h5>
+        <h6>{{investigation.subtitle}}</h6>
+        <p class="text-muted">{{investigation.description}}</p>
+        <a href="#projectModal{{ forloop.index }}" class="button-link small" data-toggle="modal">Leer Más</a>
+      </div>
+    </div>
+    {% endfor %}
+  </div>
+</section>
