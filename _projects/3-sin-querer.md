@@ -1,5 +1,7 @@
 ---
 title: Sin Querer
+subtitle: Nombre del director
+description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 image: /img/projects/sin-querer/TAN_8791.JPG
 bg_color: '#72c7ef'
 gallery:

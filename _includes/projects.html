@@ -1,66 +1,28 @@
 <!-- Gallery Section -->
 <section id="projects" class="text-center bg-light-gray">
   <div class="container">
-    <!-- DISPLAY COLLAGE ON LARGE SCREENS -->
-    {% for i in (0..3) %}
-      <div class="col-md-3 hidden-sm hidden-xs project-item">
-        {% for project in site.projects %}
-          {% assign project-column = forloop.index | minus: 1 | modulo: 4 %}
-          {% if project-column == i %}
-            <a href="#projectModal{{ forloop.index }}" class="project-link" data-toggle="modal">
-                <div class="project-hover" style="background-color: {{project.bg_color}}">
-                    <div class="project-hover-content">
-                      <h6>{{project.title}}</h6>
-                      <hr/>
-                      <p>Ver imágenes <i class="fa fa-chevron-right"></i></p>
-                    </div>
-                </div>
-                <img src="{{ project.image | prepend: site.baseurl }}" class="img-responsive img-centered" alt="">
-            </a>
-          {% endif %}
-        {% endfor %}
-      </div>
-    {% endfor %}
-    <!-- /DISPLAY COLLAGE ON LARGE SCREENS -->
-
-    <!-- DISPLAY COLLAGE ON SMALL SCREENS -->
-    {% for i in (0..2) %}
-    <div class="col-sm-4 hidden-md hidden-xs hidden-lg project-item">
-      {% for project in site.projects %}
-        {% assign project-column = forloop.index | minus: 1 | modulo: 3 %}
-        {% if project-column == i %}
-          <a href="#projectModal{{ forloop.index }}" class="project-link" data-toggle="modal">
-              <div class="project-hover" style="background-color: {{project.bg_color}}">
-                  <div class="project-hover-content">
-                      <i class="fa fa-plus fa-3x"></i>
-                  </div>
-              </div>
-              <img src="{{ project.image | prepend: site.baseurl }}" class="img-responsive img-centered" alt="">
-          </a>
-        {% endif %}
-      {% endfor %}
-    </div>
-  {% endfor %}
-  <!-- /DISPLAY COLLAGE ON SMALL SCREENS -->
-
-  <!-- DISPLAY COLLAGE ON EXTRASMALL SCREES -->
-  {% for i in (0..1) %}
-  <div class="col-xs-6 hidden-md hidden-sm hidden-lg project-item">
+    <h3 class="section-heading editable">Proyectos</h3>
     {% for project in site.projects %}
-    {% assign project-column = forloop.index | minus: 1 | modulo: 2 %}
-    {% if project-column == i %}
-    <a href="#projectModal{{ forloop.index }}" class="project-link" data-toggle="modal">
-      <div class="project-hover" style="background-color: {{project.bg_color}}">
-        <div class="project-hover-content">
-          <i class="fa fa-plus fa-3x"></i>
-        </div>
+    <div class="row project-item">
+      <div class="col-md-4 col-lg-3">
+        <a href="#projectModal{{ forloop.index }}" class="project-link" data-toggle="modal">
+            <div class="project-hover" style="background-color: {{project.bg_color}}">
+                <div class="project-hover-content">
+                  <h6>{{project.title}}</h6>
+                  <hr/>
+                  <p>Descubrir <i class="fa fa-chevron-right"></i></p>
+                </div>
+            </div>
+            <img src="{{ project.image | prepend: site.baseurl }}" class="img-responsive img-centered" alt="">
+        </a>
       </div>
-      <img src="{{ project.image | prepend: site.baseurl }}" class="img-responsive img-centered" alt="">
-    </a>
-    {% endif %}
+      <div class="col-md-8 col-lg-9 project-card">
+        <h5>{{project.title}}</h5>
+        <h6>{{project.subtitle}}</h6>
+        <p class="text-muted">{{project.description}}</p>
+        <a href="#projectModal{{ forloop.index }}" class="button-link small" data-toggle="modal">Más</a>
+      </div>
+    </div>
     {% endfor %}
-  </div>
-  {% endfor %}
-<!-- /DISPLAY COLLAGE ON EXTRASMALL SCREENS -->
   </div>
 </section>

@@ -380,12 +380,6 @@ section h3.section-subheading {
   text-transform: none;
 }
 
-#projects .project-item {
-  right: 0;
-  margin: 0;
-  padding: 0 5px 0 5px;
-}
-
 #projects .project-item .project-link {
   display: block;
   position: relative;
@@ -753,6 +747,32 @@ section#contact .text-danger {
   color: white;
 }
 
+#contact h3 {
+  color: #fafafa;
+}
+
+#contact p {
+  font-family: "Lato"
+}
+
+a.button-link {
+  display: inline-block;
+  padding: 20px 50px;
+  border: 1px solid black;
+  margin-bottom: 30px;
+  transition: all .5s ease;
+}
+
+a.button-link:hover {
+  background-color: black;
+  color: white;
+  text-decoration: none;
+}
+
+a.button-link.small {
+  padding: 10px 30px;
+}
+
 footer {
   padding: 25px 0;
   text-align: center;
@@ -1090,4 +1110,20 @@ article.project-content {
   margin: 0 auto;
   border-radius: 5px;
   box-shadow: 5px 5px 5px rgba(0,0,0,0.1);
+}
+
+.project-item {
+  padding: 25px;
+  border-top: 1px solid rgba(0,0,0,0.1);
+  border-bottom: 1px solid rgba(0,0,0,0.1);
+}
+
+.project-item img {
+  width: 100%;
+  border-radius: 5px;
+  box-shadow: 5px 5px 5px rgba(0,0,0,0.1);
+}
+
+.project-item .project-card {
+  text-align: left;
 }

@@ -1,5 +1,7 @@
 ---
 title: El Ojo de la Águila
+subtitle: Nombre del director
+description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 image: /img/projects/el-ojo-de-la-aguila/IMG_9656.JPG
 bg_color: '#471f32'
 gallery:

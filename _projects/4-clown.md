@@ -1,5 +1,7 @@
 ---
 title: Clown
+subtitle: Nombre del director
+description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 image: /img/projects/clown/TLB_2490.JPG
 bg_color: '#d09f46'
 gallery:

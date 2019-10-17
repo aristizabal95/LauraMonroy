@@ -1,5 +1,7 @@
 ---
 title: Año Uno
+subtitle: Nombre del director
+description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 image: /img/projects/año uno/TLB_1736.jpg
 bg_color: '#dea6a6'
 gallery:
