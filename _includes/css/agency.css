@@ -745,6 +745,14 @@ section#contact .text-danger {
   color: #e74c3c;
 }
 
+#contact .modal-content {
+  background-color: {{ site.data.template.color.skin-light }};
+}
+
+#contact h2 {
+  color: white;
+}
+
 footer {
   padding: 25px 0;
   text-align: center;
