@@ -15,7 +15,7 @@
                         <div class="modal-body">
                             <h2>{{ project.title }}</h2>
                             <hr class="star-primary">
-                            {% include carousel.html gallery=project.gallery galleryid=galid %}
+                            {% include carousel.html gallery=project.gallery galleryid=galid interval=false %}
                             <article class="project-content">
                               {{ project.content}}
                             </article>

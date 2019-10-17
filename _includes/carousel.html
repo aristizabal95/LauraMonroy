@@ -1,6 +1,7 @@
 {% assign gallery =  include.gallery %}
 {% assign galleryid = include.galleryid %}
-<div id="{{galleryid}}" class="carousel slide carousel-fade thumbnail-indicator" data-ride="carousel">
+{% assign interval = include.interval %}
+<div id="{{galleryid}}" class="carousel slide carousel-fade thumbnail-indicator" data-ride="carousel" {% if interval != nil %}data-interval={{interval}}{% endif %}>
   <div class="carousel-inner">
     {% for item in gallery %}
     {% assign id = item.path | split: "/" %}
