@@ -23,6 +23,7 @@ color:
   yellow: '#ffc115'
   pink: '#fad9f4'
   skin: '#ecc8ae'
+  skin-light: '#ecbfae'
   blue: '#72c7ef'
 
 # Font Families
