@@ -5,7 +5,7 @@
     {% for investigation in page.investigations %}
     <div class="row project-item">
       <div class="col-md-4 col-lg-4">
-        <a href="{{ investigation.path }}" class="project-link" data-toggle="modal" target="_blank">
+        <a href="{{ investigation.path }}" class="project-link" target="_blank">
             <div class="project-hover" style="background-color: black">
                 <div class="project-hover-content">
                   <h6>{{investigation.title}}</h6>
@@ -20,7 +20,7 @@
         <h5>{{investigation.title}}</h5>
         <h6>{{investigation.subtitle}}</h6>
         <p class="text-muted">{{investigation.description}}</p>
-        <a href="#projectModal{{ forloop.index }}" class="button-link small" data-toggle="modal">Leer Más</a>
+        <a href="#projectModal{{ forloop.index }}" class="button-link small" target="_blank">Leer Más</a>
       </div>
     </div>
     {% endfor %}
