@@ -1,65 +1,39 @@
 ---
 title: Año Uno
 subtitle: Nombre del director
-description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-image: /img/projects/año uno/TLB_1736.jpg
+description: >-
+  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+  incididunt ut labore et dolore magna aliqua.
+image: /img/projects/año-uno/1.JPG
 bg_color: '#dea6a6'
 gallery:
-  - path: /img/projects/año uno/DSC_0059.jpg
+  - path: /img/projects/año-uno/1.JPG
     desc: 'Fotografo: NOMBRE_AQUI'
-  - path: /img/projects/año uno/DSC_0060.jpg
+  - path: /img/projects/año-uno/2.JPG
     desc: 'Fotografía: NOMBRE_AQUI'
-  - path: /img/projects/año uno/DSC_0090.jpg
+  - path: /img/projects/año-uno/3.JPG
     desc: 'Fotografía: NOMBRE_AQUI'
-  - path: /img/projects/año uno/TLB_1736.jpg
+  - path: /img/projects/año-uno/4.JPG
     desc: 'Fotografía: NOMBRE_AQUI'
-  - path: /img/projects/año uno/TLB_1770.jpg
+  - path: /img/projects/año-uno/5.JPG
     desc: 'Fotografía: NOMBRE_AQUI'
-  - path: /img/projects/año uno/TLB_1845.jpg
+  - path: /img/projects/año-uno/6.JPG
     desc: 'Fotografía: Nombre Aquí'
-  - path: /img/projects/año uno/TLB_1902.jpg
+  - path: /img/projects/año-uno/7.JPG
     desc: 'Fotografía: Nombre Aquí'
-  - path: /img/projects/año uno/TLB_1907.jpg
+  - path: /img/projects/año-uno/8.JPG
     desc: 'Fotografía: Nombre Aquí'
-  - path: /img/projects/año uno/TLB_1909.jpg
+  - path: /img/projects/año-uno/9.JPG
     desc: 'Fotografía: Nombre Aquí'
-  - path: /img/projects/año uno/TLB_1911.jpg
+  - path: /img/projects/año-uno/10.JPG
     desc: 'Fotografía: Nombre Aquí'
-  - path: /img/projects/año uno/TLB_1915.jpg
+  - path: /img/projects/año-uno/11.JPG
     desc: 'Fotografía: Nombre Aquí'
-  - path: /img/projects/año uno/TLB_1919.jpg
+  - path: /img/projects/año-uno/12.jpeg
     desc: 'Fotografía: Nombre Aquí'
-  - path: /img/projects/año uno/TLB_1967.jpg
+  - path: /img/projects/año-uno/13.jpeg
     desc: 'Fotografía: Nombre Aquí'
-  - path: /img/projects/año uno/TLB_1972.jpg
-    desc: 'Fotografía: Nombre Aquí'
-  - path: /img/projects/año uno/TLB_1974.jpg
-    desc: 'Fotografía: Nombre Aquí'
-  - path: /img/projects/año uno/TLB_1977.jpg
-    desc: 'Fotografía: Nombre Aquí'
-  - path: /img/projects/año uno/TLB_1984.jpg
-    desc: 'Fotografía: Nombre Aquí'
-  - path: /img/projects/año uno/TLB_1985.jpg
-    desc: 'Fotografía: Nombre Aquí'
-  - path: /img/projects/año uno/TLB_1987.jpg
-    desc: 'Fotografía: Nombre Aquí'
-  - path: /img/projects/año uno/TLB_1988.jpg
-    desc: 'Fotografía: Nombre Aquí'
-  - path: /img/projects/año uno/TLB_1992.jpg
-    desc: 'Fotografía: Nombre Aquí'
-  - path: /img/projects/año uno/TLB_1999.jpg
-    desc: 'Fotografía: Nombre Aquí'
-  - path: /img/projects/año uno/TLB_2004.jpg
-    desc: 'Fotografía: Nombre Aquí'
-  - path: /img/projects/año uno/TLB_2081.jpg
-    desc: 'Fotografía: Nombre Aquí'
-  - path: /img/projects/año uno/TLB_2088.jpg
-    desc: 'Fotografía: Nombre Aquí'
-  - path: /img/projects/año uno/TLB_2090.jpg
-    desc: 'Fotografía: Nombre Aquí'
-  - path: /img/projects/año uno/TLB_2111.jpg
-    desc: 'Fotografía: Nombre Aquí'
-  - path: /img/projects/año uno/TLB_2112.jpg
+  - path: /img/projects/año-uno/14.jpg
     desc: 'Fotografía: Nombre Aquí'
 ---
 
