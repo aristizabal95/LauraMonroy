@@ -1,24 +1,22 @@
 ---
 title: Sin Querer
 subtitle: Nombre del director
-description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-image: /img/projects/sin-querer/TAN_8791.JPG
+description: >-
+  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+  incididunt ut labore et dolore magna aliqua.
+image: /img/projects/sin-querer/1.JPG
 bg_color: '#72c7ef'
 gallery:
-  - path: /img/projects/sin-querer/TAN_7658.JPG
+  - path: /img/projects/sin-querer/1.JPG
     desc: 'Fotografo: NOMBRE_AQUI'
-  - path: /img/projects/sin-querer/TAN_7659.JPG
+  - path: /img/projects/sin-querer/2.JPG
     desc: 'Fotografía: NOMBRE_AQUI'
-  - path: /img/projects/sin-querer/TAN_7661.JPG
+  - path: /img/projects/sin-querer/3.JPG
     desc: 'Fotografía: NOMBRE_AQUI'
-  - path: /img/projects/sin-querer/TAN_7662.JPG
+  - path: /img/projects/sin-querer/4.JPG
     desc: 'Fotografía: NOMBRE_AQUI'
-  - path: /img/projects/sin-querer/TAN_7666.JPG
+  - path: /img/projects/sin-querer/5.jpeg
     desc: 'Fotografía: NOMBRE_AQUI'
-  - path: /img/projects/sin-querer/TAN_7777.JPG
-    desc: 'Fotografía: Nombre Aquí'
-  - path: /img/projects/sin-querer/TAN_8791.JPG
-    desc: 'Fotografía: Nombre Aquí'
 ---
 
 &nbsp;
