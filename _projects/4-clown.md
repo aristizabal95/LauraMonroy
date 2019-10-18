@@ -1,77 +1,49 @@
 ---
 title: Clown
 subtitle: Nombre del director
-description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-image: /img/projects/clown/TLB_2490.JPG
+description: >-
+  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+  incididunt ut labore et dolore magna aliqua.
+image: /img/projects/clown/a.jpg
 bg_color: '#d09f46'
 gallery:
-  - path: /img/projects/clown/3.jpg
+  - path: /img/projects/clown/a.jpg
     desc: 'Fotografía: NOMBRE_AQUI'
-  - path: /img/projects/clown/31038155564_66c47ba4ea_o.jpg
+  - path: /img/projects/clown/b.jpg
     desc: 'Fotografía: NOMBRE_AQUI'
-  - path: /img/projects/clown/31038186904_497cdaf9cd_o.jpg
+  - path: /img/projects/clown/c.jpg
     desc: 'Fotografía: NOMBRE_AQUI'
-  - path: /img/projects/clown/31069271253_a2cb0cfee0_o.jpg
+  - path: /img/projects/clown/d.JPG
     desc: 'Fotografía: Nombre Aquí'
-  - path: /img/projects/clown/31085393273_a76ff45ab1_o.jpg
+  - path: /img/projects/clown/e.jpg
     desc: 'Fotografía: Nombre Aquí'
-  - path: /img/projects/clown/31504729600_ebdfe3fca6_o.jpg
+  - path: /img/projects/clown/f.jpg
     desc: 'Fotografía: Nombre Aquí'
-  - path: /img/projects/clown/31504929100_4cd29e699a_o.jpg
+  - path: /img/projects/clown/g.JPG
     desc: 'Fotografía: Nombre Aquí'
-  - path: /img/projects/clown/31505923200_88e391a067_o.jpg
+  - path: /img/projects/clown/h.JPG
     desc: 'Fotografía: Nombre Aquí'
-  - path: /img/projects/clown/31517182300_534f84ecc3_o.jpg
+  - path: /img/projects/clown/i.JPG
     desc: 'Fotografía: Nombre Aquí'
-  - path: /img/projects/clown/31730416992_d94727c42c_o.jpg
+  - path: /img/projects/clown/j.jpg
     desc: 'Fotografía: Nombre Aquí'
-  - path: /img/projects/clown/31730596392_f816b5b079_o.jpg
+  - path: /img/projects/clown/k.JPG
     desc: 'Fotografía: Nombre Aquí'
-  - path: /img/projects/clown/31761397171_9eb6723a8c_o.jpg
+  - path: /img/projects/clown/l.JPG
     desc: 'Fotografía: Nombre Aquí'
-  - path: /img/projects/clown/31877769675_e3c94a9799_o.jpg
+  - path: /img/projects/clown/m.jpg
     desc: 'Fotografía: Nombre Aquí'
-  - path: /img/projects/clown/31878086745_69e9d95931_o.jpg
+  - path: /img/projects/clown/n.jpg
     desc: 'Fotografía: Nombre Aquí'
-  - path: /img/projects/clown/8.jpg
+  - path: /img/projects/clown/ñ.JPG
     desc: 'Fotografía: Nombre Aquí'
-  - path: /img/projects/clown/9.jpg
+  - path: /img/projects/clown/o.jpg
     desc: 'Fotografía: Nombre Aquí'
-  - path: /img/projects/clown/DSC_2143.JPG
+  - path: /img/projects/clown/p.jpg
     desc: 'Fotografía: Nombre Aquí'
-  - path: /img/projects/clown/DSC_2167.JPG
+  - path: /img/projects/clown/q.JPG
     desc: 'Fotografía: Nombre Aquí'
-  - path: /img/projects/clown/DSC_2195.jpeg
-    desc: 'Fotografía: Nombre Aquí'
-  - path: /img/projects/clown/TLB_2344.JPG
-    desc: 'Fotografía: Nombre Aquí'
-  - path: /img/projects/clown/TLB_2398.JPG
-    desc: 'Fotografía: Nombre Aquí'
-  - path: /img/projects/clown/TLB_2409.JPG
-    desc: 'Fotografía: Nombre Aquí'
-  - path: /img/projects/clown/TLB_2428.JPG
-    desc: 'Fotografía: Nombre Aquí'
-  - path: /img/projects/clown/TLB_2429.JPG
-    desc: 'Fotografía: Nombre Aquí'
-  - path: /img/projects/clown/TLB_24302.jpg
-    desc: 'Fotografía: Nombre Aquí'
-  - path: /img/projects/clown/TLB_2436.JPG
-    desc: 'Fotografía: Nombre Aquí'
-  - path: /img/projects/clown/TLB_2490.JPG
-    desc: 'Fotografía: Nombre Aquí'
-  - path: /img/projects/clown/TLB_2493.JPG
-    desc: 'Fotografía: Nombre Aquí'
-  - path: /img/projects/clown/TLB_2509.JPG
-    desc: 'Fotografía: Nombre Aquí'
-  - path: /img/projects/clown/TLB_2512.JPG
-    desc: 'Fotografía: Nombre Aquí'
-  - path: /img/projects/clown/TLB_2513.JPG
-    desc: 'Fotografía: Nombre Aquí'
-  - path: /img/projects/clown/TLB_2535.JPG
-    desc: 'Fotografía: Nombre Aquí'
-  - path: /img/projects/clown/TLB_2615.JPG
-    desc: 'Fotografía: Nombre Aquí'
-  - path: /img/projects/clown/TLB_2624.JPG
+  - path: /img/projects/clown/r.JPG
     desc: 'Fotografía: Nombre Aquí'
 ---
 
