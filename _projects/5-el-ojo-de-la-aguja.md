@@ -1,5 +1,5 @@
 ---
-title: El Ojo de la Águila
+title: El Ojo de la Aguja
 subtitle: Nombre del director
 description: >-
   Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
