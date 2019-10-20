@@ -5,6 +5,7 @@ title: Evaluación de Pares para Laura María Monroy-García
 description:
 header:
 image: /img/evaluations/ana_oviedo.jpg
+column: "left"
 ---
 
 Conoc&iacute; a Laura Monroy al inicio de la Carrera de Artes Esc&eacute;nicas en la Pontificia Universidad Javeriana. Nuestra relaci&oacute;n inicia despu&eacute;s de terminar nuestros ciclos b&aacute;sicos de formaci&oacute;n y nos encontramos en el ciclo profesional, donde pude hacer parte en el proceso creativo de la t&eacute;cnica L&oacute;pez y Laura era ejecutante-creadora. Recuerdo con mucho cari&ntilde;o a Laura llena de energ&iacute;a, disposici&oacute;n, sed de conocimiento, experimentaci&oacute;n y cari&ntilde;o. Al participar en esta clase tuve un mayor contacto con ella y as&iacute; tuve la oportunidad de crear una nueva relaci&oacute;n de amistad en la cual descubr&iacute; a una mujer llena de valores hermosos, una tranquilidad cautivante, incondicionalidad, y en especial me encontr&eacute; con un artista muy brillante desde el &aacute;mbito intelectual y emocional. Vi en esta t&eacute;cnica que Laura estaba en una constante lucha entre la raz&oacute;n y la emoci&oacute;n lo que permiti&oacute; que sus propuestas respondieran con un alto nivel de calidad y coherencia a su trabajo tanto personal como grupal.

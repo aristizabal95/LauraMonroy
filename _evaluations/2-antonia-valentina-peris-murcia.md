@@ -5,6 +5,7 @@ title: Evaluación de pares para Laura María Monroy-García
 description:
 header:
 image: /img/evaluations/ana_oviedo.jpg
+column: "left"
 ---
 
 Conoc&iacute; a Laura Mar&iacute;a Monroy en el 2014 durante la audici&oacute;n de la carrera de artes esc&eacute;nicas de la Pontificia Universidad Javeriana. Quiz&aacute;s habernos encontrado justo cuando inici&oacute; este proceso fue pura coincidencia o suerte de la vida; yo quiero creer que deb&iacute;a cruzarme con este ser de luz para aprender m&aacute;s sobre la perseverancia, el amor al conocimiento y la tenacidad. Despu&eacute;s de haber sido mi partner en la audici&oacute;n, Laura se convirti&oacute; en mi partner durante la carrera, con ella&nbsp; descubr&iacute; el universo esc&eacute;nico en el ciclo b&aacute;sico, estuvimos en diferentes clases y proyectos fuera la universidad. Compartimos ideas, intuiciones e ilusiones.&nbsp;

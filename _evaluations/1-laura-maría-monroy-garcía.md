@@ -5,6 +5,7 @@ title: Autoevaluación
 description:
 header:
 image: /img/evaluations/ana_oviedo.jpg
+column: "main"
 ---
 
 La retrospectiva sobre mi proceso de formaci&oacute;n me remite a la corazonada que dio origen a todo esto: en el arte est&aacute; el lugar de conciliaci&oacute;n entre alma, mente y cuerpo, y el potencial de exploraci&oacute;n de sus profundidades.&nbsp;&nbsp;

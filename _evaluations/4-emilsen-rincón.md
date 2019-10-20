@@ -5,6 +5,7 @@ title: Evaluación docente de Laura María Monroy-García
 description:
 header:
 image: /img/evaluations/ana_oviedo.jpg
+column: "right"
 ---
 
 Uno de los aspectos m&aacute;s relevantes que quiero significar en lo que he podido apreciar del proceso de Laura en los espacios acad&eacute;micos laboratorio de danza tradicional y puesta en escena visi&oacute;n som&aacute;tica, es su pasi&oacute;n por el aprendizaje. Considero que tiene esa capacidad enorme de compromiso con lo que est&aacute; investigando, con sentido cr&iacute;tico y de construcci&oacute;n de pensamiento permanentemente activo. Es una investigadora que no se queda con la primera informaci&oacute;n que recibe, sino que indaga y va siempre al porqu&eacute; piensa y act&uacute;a como lo hace, y esto, en cualquier proceso de investigaci&oacute;n creaci&oacute;n es de suma importancia para el aprendizaje, convirti&eacute;ndola en una artista creadora en potencia, muy aut&eacute;ntica como ejecutante, fuente y productora. &nbsp;&nbsp;
