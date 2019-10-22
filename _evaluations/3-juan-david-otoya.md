@@ -4,7 +4,7 @@ name: Juan David Otoya
 title: Evaluación de Pares para Laura María Monroy-García
 description:
 header:
-image: /uploads/juan-otoya.jpeg
+image: /uploads/whatsapp-image-2019-10-22-at-4-26-43-pm.jpeg
 column: left
 ---
 
