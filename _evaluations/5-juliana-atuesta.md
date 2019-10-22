@@ -4,8 +4,8 @@ name: Evaluación Laura María Monroy-García
 title: Juliana Atuesta
 description:
 header:
-image: /img/evaluations/ana_oviedo.jpg
-column: "right"
+image: /uploads/juliana.jpeg
+column: right
 ---
 
 Conoc&iacute; a Laura en el momento en el que me vincul&eacute; como profesora del departamento de artes esc&eacute;nica en la Universidad Javeriana como estudiante de la asignatura Repertorio de la danza. Desde ese momento identifiqu&eacute; en Laura a una persona comprometida con su carrera a nivel intelectual, disciplinar y sobretodo a nivel personal, es decir, que no solo demostraba un inter&eacute;s profundo por el conocimiento de la historia y las teor&iacute;as de la danza a trav&eacute;s de un pensamiento cr&iacute;tico y participativo, sino que tambi&eacute;n podr&iacute;a asegurar que Laura flu&iacute;a y se compenetraba con las artes esc&eacute;nicas con todo su ser, sus experiencias cotidianas, sus emociones y sus concepciones de la vida. La constancia y permanencia de un pensamiento cr&iacute;tico y propositivo que se moviliza y que se activa con todos los insumos que ella recibe. Cada insumo, por m&aacute;s sencillo que fuera, potenciaba en ella un caudal de posibilidades frente a las cuales emprend&iacute;amos discusiones infinitamente ricas.
