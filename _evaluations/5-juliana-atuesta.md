@@ -1,6 +1,6 @@
 ---
 layout: evaluation
-name: Evaluación Laura María Monroy-García
+name: Evaluación docente de Laura María Monroy-García
 title: Juliana Atuesta
 description:
 header:
