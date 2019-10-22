@@ -1,9 +1,7 @@
 ---
 title: Maravillosas Ocupaciones
-subtitle: Nombre del director
-description: >-
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-  incididunt ut labore et dolore magna aliqua.
+subtitle: 'Dirección: Juliana Atuesta'
+description: Ensamble de danza
 image: /img/projects/maravillosas-ocupaciones/1.jpg
 bg_color: '#471f32'
 gallery:
