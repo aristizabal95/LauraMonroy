@@ -1,9 +1,7 @@
 ---
-title: Clown
-subtitle: Nombre del director
-description: >-
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-  incididunt ut labore et dolore magna aliqua.
+title: La tragedia de Romeo y Julieta (2016)
+subtitle: 'Dirección: Felipe Ortiz'
+description: Ensamble de clown
 image: /img/projects/clown/a.jpg
 bg_color: '#d09f46'
 gallery:
