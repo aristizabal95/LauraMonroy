@@ -1,9 +1,7 @@
 ---
 title: El Ojo de la Aguja
-subtitle: Nombre del director
-description: >-
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-  incididunt ut labore et dolore magna aliqua.
+subtitle: 'Dirección: Rogelio López'
+description: Ensamble de danza
 image: /img/projects/el-ojo-de-la-aguila/a.JPG
 bg_color: '#471f32'
 gallery:
