@@ -4,7 +4,7 @@ name: Evaluación Laura María Monroy-García
 title: Juliana Atuesta
 description:
 header:
-image: /uploads/juliana.jpeg
+image: /uploads/whatsapp-image-2019-10-22-at-4-26-30-pm.jpeg
 column: right
 ---
 
