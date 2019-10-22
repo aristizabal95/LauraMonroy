@@ -1140,3 +1140,15 @@ article.project-content {
   fill: {{site.data.template.color.yellow}};
   display:inline-block;
 }
+
+.credits div {
+  text-align: left;
+}
+
+.credits h4, p, a {
+  display: inline-block;
+}
+
+.credits a, p {
+  padding: 0 5px;
+}
