@@ -1,6 +1,6 @@
 ---
 title: Otros proyectos
-subtitle: 'Dirección: Juliana Atuesta'
+subtitle:
 description: >-
   Fashion Film (2018): Proyecto Moda y Tendencias - IED Madrid
 
