@@ -6,33 +6,33 @@ image: /img/projects/año-uno/1.JPG
 bg_color: '#dea6a6'
 gallery:
   - path: /img/projects/año-uno/1.JPG
-    desc: 'Fotografo: NOMBRE_AQUI'
+    desc:
   - path: /img/projects/año-uno/2.JPG
-    desc: 'Fotografía: NOMBRE_AQUI'
+    desc:
   - path: /img/projects/año-uno/3.JPG
-    desc: 'Fotografía: NOMBRE_AQUI'
+    desc:
   - path: /img/projects/año-uno/4.JPG
-    desc: 'Fotografía: NOMBRE_AQUI'
+    desc:
   - path: /img/projects/año-uno/5.JPG
-    desc: 'Fotografía: NOMBRE_AQUI'
+    desc:
   - path: /img/projects/año-uno/6.JPG
-    desc: 'Fotografía: Nombre Aquí'
+    desc:
   - path: /img/projects/año-uno/7.JPG
-    desc: 'Fotografía: Nombre Aquí'
+    desc:
   - path: /img/projects/año-uno/8.JPG
-    desc: 'Fotografía: Nombre Aquí'
+    desc:
   - path: /img/projects/año-uno/9.JPG
-    desc: 'Fotografía: Nombre Aquí'
+    desc:
   - path: /img/projects/año-uno/10.JPG
-    desc: 'Fotografía: Nombre Aquí'
+    desc:
   - path: /img/projects/año-uno/11.JPG
-    desc: 'Fotografía: Nombre Aquí'
+    desc:
   - path: /img/projects/año-uno/12.jpeg
-    desc: 'Fotografía: Nombre Aquí'
+    desc:
   - path: /img/projects/año-uno/13.jpeg
-    desc: 'Fotografía: Nombre Aquí'
+    desc:
   - path: /img/projects/año-uno/14.jpg
-    desc: 'Fotografía: Nombre Aquí'
+    desc:
 ---
 
 ## A&ntilde;o Uno
