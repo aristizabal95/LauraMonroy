@@ -35,6 +35,10 @@ gallery:
     desc: 'Foto: Diego Quintero'
 ---
 
+**Direcci&oacute;n:** Rogelio L&oacute;pez
+
+**Ensamble de danza.**
+
 fotos obtenidas del archivo del departamento de Artes Esc&eacute;nicas de la Pontificia Universidad Javeriana de Bogota
 
-Edici&oacute;n: Laura Monroy-Garc&iacute;a
+**Edici&oacute;n:** Laura Monroy-Garc&iacute;a
