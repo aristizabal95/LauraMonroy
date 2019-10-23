@@ -17,8 +17,8 @@
             </div>
             <div class="row">
               <div class="col-lg-12">
-                <h3 class="editable">Teléfono: </h3><p>{{site.data.template.phone}}</p>
-                <h3 class="editable">Correo electrónico: </h3><p>{{site.data.template.email}}</p>
+                <h3 class="editable">Teléfono: </h3><h4><a href="tel:{{site.data.template.phone}}">{{site.data.template.phone}}</a></h4>
+                <h3 class="editable">Correo electrónico: </h3><h4><a href="mailto:{{site.data.template.email}}">{{site.data.template.email}}</a></h4>
                 <a href="{{sita.data.template.cv_path}}" class="button-link editable">CV</a>
                 <ul class="list-inline social-buttons">
                   {% for network in site.data.template.social %}
