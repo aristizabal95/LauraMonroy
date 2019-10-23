@@ -8,7 +8,7 @@
     <meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
     <meta property="og:type" content="website">
     <meta property="og:url" content="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
-    <meta property="og:image" content="{{site.data.template.og_image_path}}">
+    <meta property="og:image" content="{{site.data.template.og_image_path | prepend: site.baseurl | prepend: site.url }}">
     <meta property="og:description" content="{{site.data.template.description}}">
 
 
