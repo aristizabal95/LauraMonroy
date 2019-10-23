@@ -45,4 +45,10 @@ gallery:
     desc:
 ---
 
+**Direcci&oacute;n:** Felipe Ortiz
+
+Ensamble de clown.
+
 fotos obtenidas del archivo del departamento de Artes Esc&eacute;nicas de la Pontificia Universidad Javeriana de Bogota
+
+Edici&oacute;n: Laura Monroy-Garc&iacute;a
