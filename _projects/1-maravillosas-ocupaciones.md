@@ -27,8 +27,10 @@ gallery:
     desc:
 ---
 
-Fotos: Luisa Ladino
+**Direcci&oacute;n:** Juliana Atuesta
 
-&nbsp;
+**Ensamble de danza.**
 
-Edici&oacute;n: Laura Monroy-Garc&iacute;a
+**Fotos:** Luisa Ladino
+
+**Edici&oacute;n:** Laura Monroy-Garc&iacute;a
