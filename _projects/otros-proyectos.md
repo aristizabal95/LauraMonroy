@@ -16,35 +16,35 @@ image: /uploads/01-fashion-film.jpg
 bg_color: '#4fdcc8'
 gallery:
   - path: /uploads/01-fashion-film.jpg
-    desc:
+    desc: Fashion Film (2018)
   - path: /uploads/02-fashion-film.jpg
-    desc:
+    desc: Fashion Film (2018)
   - path: /uploads/03-fashion-film.jpg
-    desc:
+    desc: Fashion Film (2018)
   - path: /uploads/04-proyecto-actuacion.jpg
-    desc:
+    desc: Actuación para la cámara. (2018)
   - path: /uploads/05-proyecto-actuacion.jpg
-    desc:
+    desc: Actuación para la cámara. (2018)
   - path: /uploads/06-reclab.jpg
-    desc:
+    desc: Regresión (2017)
   - path: /uploads/07-reclab.jpg
-    desc:
+    desc: Regresión (2017)
   - path: /uploads/08-undecaeto.jpg
-    desc:
+    desc: Colectivo Undecaeto
   - path: /uploads/09-undecaeto.jpg
-    desc:
+    desc: Colectivo Undecaeto
   - path: /uploads/10-undecaeto.jpg
-    desc:
+    desc: Colectivo Undecaeto
   - path: /uploads/11-sin-titulo.jpg
     desc:
 ---
 
-* Fashion Film (2018): Proyecto Moda y Tendencias - IED Madrid
+* **Fashion Film (2018)**\: Proyecto Moda y Tendencias - IED Madrid
 
 **Concepto:** Alba Gonz&aacute;lez, Direcci&oacute;n: Carlos Li&eacute;vano. Madrid, Espa&ntilde;a.
 
-* Proyecto- Actuaci&oacute;n para la c&aacute;mara. (2018) TAI Madrid, Espa&ntilde;a.
+* **Proyecto- Actuaci&oacute;n para la c&aacute;mara. (2018)** TAI Madrid, Espa&ntilde;a.
 
-* Regresi&oacute;n (2017): Proyecto de investigaci&oacute;n Semillero RecLab
+* **Regresi&oacute;n (2017):** Proyecto de investigaci&oacute;n Semillero RecLab
 
 * **Colectivo Undecaeto:** investigacion-creaci&oacute;n en artes esc&eacute;nicas, m&uacute;sica e improvisaci&oacute;n.
