@@ -6,43 +6,43 @@ image: /img/projects/clown/a.jpg
 bg_color: '#d09f46'
 gallery:
   - path: /img/projects/clown/a.jpg
-    desc: 'Fotografía: NOMBRE_AQUI'
+    desc:
   - path: /img/projects/clown/b.jpg
-    desc: 'Fotografía: NOMBRE_AQUI'
+    desc:
   - path: /img/projects/clown/c.jpg
-    desc: 'Fotografía: NOMBRE_AQUI'
+    desc:
   - path: /img/projects/clown/d.JPG
-    desc: 'Fotografía: Nombre Aquí'
+    desc:
   - path: /img/projects/clown/e.jpg
-    desc: 'Fotografía: Nombre Aquí'
+    desc:
   - path: /img/projects/clown/f.jpg
-    desc: 'Fotografía: Nombre Aquí'
+    desc:
   - path: /img/projects/clown/g.JPG
-    desc: 'Fotografía: Nombre Aquí'
+    desc:
   - path: /img/projects/clown/h.JPG
-    desc: 'Fotografía: Nombre Aquí'
+    desc:
   - path: /img/projects/clown/i.JPG
-    desc: 'Fotografía: Nombre Aquí'
+    desc:
   - path: /img/projects/clown/j.jpg
-    desc: 'Fotografía: Nombre Aquí'
+    desc:
   - path: /img/projects/clown/k.JPG
-    desc: 'Fotografía: Nombre Aquí'
+    desc:
   - path: /img/projects/clown/l.JPG
-    desc: 'Fotografía: Nombre Aquí'
+    desc:
   - path: /img/projects/clown/m.jpg
-    desc: 'Fotografía: Nombre Aquí'
+    desc:
   - path: /img/projects/clown/n.jpg
-    desc: 'Fotografía: Nombre Aquí'
+    desc:
   - path: /img/projects/clown/ñ.JPG
-    desc: 'Fotografía: Nombre Aquí'
+    desc:
   - path: /img/projects/clown/o.jpg
-    desc: 'Fotografía: Nombre Aquí'
+    desc:
   - path: /img/projects/clown/p.jpg
-    desc: 'Fotografía: Nombre Aquí'
+    desc:
   - path: /img/projects/clown/q.JPG
-    desc: 'Fotografía: Nombre Aquí'
+    desc:
   - path: /img/projects/clown/r.JPG
-    desc: 'Fotografía: Nombre Aquí'
+    desc:
 ---
 
 ## &nbsp;
