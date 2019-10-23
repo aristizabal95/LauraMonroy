@@ -27,3 +27,6 @@ gallery:
     desc:
 ---
 
+Fotos: Luisa Ladino
+
+Edici&oacute;n: Laura Camila Monroy-Garc&iacute;a
