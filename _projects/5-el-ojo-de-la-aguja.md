@@ -25,4 +25,10 @@ gallery:
     desc:
 ---
 
+**Direcci&oacute;n:** Rogelio L&oacute;pez
+
+**Ensamble de danza.**
+
 fotos obtenidas del archivo del departamento de Artes Esc&eacute;nicas de la Pontificia Universidad Javeriana de Bogota
+
+**Edici&oacute;n:&nbsp;**Laura Monroy-Garc&iacute;a
