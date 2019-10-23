@@ -10,6 +10,10 @@ body {
   color: {{ site.data.template.color.primary-light }};
 }
 
+body.modal-open {
+  overflow: auto !important;
+}
+
 .text-muted {
   color: {{ site.data.template.color.muted }};
 }
