@@ -1149,10 +1149,10 @@ article.project-content {
   text-align: left;
 }
 
-.credits h4, p, a {
+.credits h4, .credits p, .credits a {
   display: inline-block;
 }
 
-.credits a, p {
+.credits a, .credits p {
   padding: 0 5px;
 }
