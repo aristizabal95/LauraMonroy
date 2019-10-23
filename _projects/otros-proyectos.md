@@ -36,7 +36,7 @@ gallery:
   - path: /uploads/10-undecaeto.jpg
     desc: Colectivo Undecaeto
   - path: /uploads/11-sin-titulo.jpg
-    desc:
+    desc: CENIT Arte Natura
 ---
 
 * **Fashion Film (2018)**\: Proyecto Moda y Tendencias - IED Madrid
@@ -48,3 +48,5 @@ gallery:
 * **Regresi&oacute;n (2017):** Proyecto de investigaci&oacute;n Semillero RecLab
 
 * **Colectivo Undecaeto:** investigacion-creaci&oacute;n en artes esc&eacute;nicas, m&uacute;sica e improvisaci&oacute;n.
+
+* **CENIT Arte Natura:&nbsp;**Taller de creaci&oacute;n. Minca, Sierra Nevada de Santa Marta
