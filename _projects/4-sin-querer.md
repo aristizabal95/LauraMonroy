@@ -1,7 +1,7 @@
 ---
 title: Sin Querer
-subtitle: Ensamble de creación colaborativa  con Elena Steremberg
-description:
+subtitle: con Elena Steremberg
+description: Ensamble de creación colaborativa
 image: /img/projects/sin-querer/1.JPG
 bg_color: '#72c7ef'
 gallery:
@@ -17,4 +17,10 @@ gallery:
     desc:
 ---
 
+con Elena Steremberg
+
+**Ensamble de creaci&oacute;n colaborativa &nbsp;**
+
 fotos obtenidas del archivo del departamento de Artes Esc&eacute;nicas de la Pontificia Universidad Javeriana de Bogota
+
+**Edici&oacute;n:** Laura Monroy-Garc&iacute;a
