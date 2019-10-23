@@ -32,7 +32,7 @@ gallery:
   - path: /img/projects/año-uno/13.jpeg
     desc:
   - path: /img/projects/año-uno/14.jpg
-    desc:
+    desc: 'Foto: Diego Quintero'
 ---
 
 fotos obtenidas del archivo del departamento de Artes Esc&eacute;nicas de la Pontificia Universidad Javeriana de Bogota
