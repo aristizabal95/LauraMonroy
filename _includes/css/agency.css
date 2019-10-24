@@ -1132,7 +1132,7 @@ article.project-content {
 
 .project-item .project-card h4 {
   display: inline;
-  background: {{site.data.template.color.pink-light}};
+  background: {{site.data.template.color.skin-light}};
   margin-bottom: 0;
 }
 
@@ -1141,7 +1141,7 @@ article.project-content {
 }
 
 .project-item .project-card svg {
-  fill: {{site.data.template.color.pink-light}};
+  fill: {{site.data.template.color.skin-light}};
   display:inline-block;
 }
 
