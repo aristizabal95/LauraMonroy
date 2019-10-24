@@ -1132,7 +1132,7 @@ article.project-content {
 
 .project-item .project-card h4 {
   display: inline;
-  background: {{site.data.template.color.skin}};
+  background: {{site.data.template.color.pink}};
   margin-bottom: 0;
 }
 
