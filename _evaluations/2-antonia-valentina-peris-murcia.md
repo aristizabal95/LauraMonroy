@@ -1,7 +1,7 @@
 ---
 layout: evaluation
 name: Antonia Valentina Peris Murcia
-title: Evaluación de pares para Laura María Monroy-García
+title: Evaluación de pares
 description:
 header:
 image: /uploads/whatsapp-image-2019-10-22-at-4-27-02-pm.jpeg
