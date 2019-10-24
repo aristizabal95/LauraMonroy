@@ -1141,7 +1141,7 @@ article.project-content {
 }
 
 .project-item .project-card svg {
-  fill: {{site.data.template.color.skin}};
+  fill: {{site.data.template.color.pink}};
   display:inline-block;
 }
 
