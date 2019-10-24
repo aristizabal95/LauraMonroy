@@ -3,7 +3,7 @@ title: La tragedia de Romeo y Julieta (2016)
 subtitle: 'Dirección: Felipe Ortiz'
 description: Ensamble de clown.
 image: /img/projects/clown/a.jpg
-bg_color: '#d09f46'
+bg_color: '#e6c4a8'
 gallery:
   - path: /img/projects/clown/a.jpg
     desc:
