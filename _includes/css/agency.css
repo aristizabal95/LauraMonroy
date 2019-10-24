@@ -1156,3 +1156,8 @@ article.project-content {
 .credits a, .credits p {
   padding: 0 5px;
 }
+
+.modal-body p {
+  text-align: justify;
+  font-size: 17px;
+}
