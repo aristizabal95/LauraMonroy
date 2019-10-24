@@ -1,6 +1,6 @@
 ---
 layout: evaluation
-name: Laura María Monroy-García
+name: Laura Monroy-García
 title: Autoevaluación
 description:
 header:
@@ -26,7 +26,7 @@ En el 2017 continu&eacute; saliendo del cascar&oacute;n con espontaneidad y&nbsp
 
 El enraizamiento de mi inter&eacute;s por la investigaci&oacute;n-creaci&oacute;n se dio en el laboratorio de danzas tradicionales con Emilsen Rinc&oacute;n. Aqu&iacute; me conect&eacute; con el&nbsp; peso, el impulso, y el impacto que puedo encontrar en el movimiento, y articul&eacute; mis preguntas en torno a las condiciones hist&oacute;ricas, sociales y culturales que me rodean. Entretej&iacute; una postura investigativa personal en la que&nbsp; desarroll&eacute; din&aacute;micas de exploraci&oacute;n y creaci&oacute;n a partir de la improvisaci&oacute;n y la composici&oacute;n.
 
-Sobre esto profundic&eacute; en el encuentro con artistas e investigadores de otras &aacute;reas. Participar en el semillero de investigaci&oacute;n RecLab, en la creaci&oacute;n de un cortometraje experimental con los estudiantes de la Maestr&iacute;a de Creaci&oacute;n Audiovisual, y en el proceso de composici&oacute;n de la tesis de grado estudios musicales de Juan Manuel Jaramillo Lleras *Space ' entities splitting ' \[...\],* me permiti&oacute; comprender las din&aacute;micas del trabajo en equipo y el di&aacute;logo entre disciplinas. Sobre todo, comprend&iacute; la importancia de brindar propuestas s&oacute;lidas y generosas desde m&iacute; misma.&nbsp; Estas experiencias tambi&eacute;n me permitieron entrar en contacto con la manera en que lo sensible se explora en diferentes rangos y perspectivas desde otras pr&aacute;cticas.&nbsp;
+Sobre esto profundic&eacute; en el encuentro con artistas e investigadores de otras &aacute;reas. Participar en el semillero de investigaci&oacute;n RecLab, en la creaci&oacute;n de un cortometraje experimental con los estudiantes de la Maestr&iacute;a de Creaci&oacute;n Audiovisual, y en el proceso de composici&oacute;n de la tesis de grado estudios musicales de Juan Manuel Jaramillo Lleras *Space ' entities splitting ' \[…\],* me permiti&oacute; comprender las din&aacute;micas del trabajo en equipo y el di&aacute;logo entre disciplinas. Sobre todo, comprend&iacute; la importancia de brindar propuestas s&oacute;lidas y generosas desde m&iacute; misma.&nbsp; Estas experiencias tambi&eacute;n me permitieron entrar en contacto con la manera en que lo sensible se explora en diferentes rangos y perspectivas desde otras pr&aacute;cticas.&nbsp;
 
 En el 2018 quise buscar nuevas perspectivas y viaj&eacute; a Madrid con el programa de movilidad estudiantil de la Universidad. All&iacute; record&eacute; mis inquietudes esenciales: mi gusto por la fantas&iacute;a y la magia, mi conexi&oacute;n con lo expresivo, el relato, la voz y la palabra, y especialmente, el potencial de las cosas peque&ntilde;as,&nbsp; lo cotidiano y lo sutil. Al verme expuesta a un nuevo contexto, a&ntilde;or&eacute; mis lugares de origen, y tambi&eacute;n descubr&iacute; nuevos matices en la informaci&oacute;n que me fue compartida, sobre todo en las asignaturas de lectura y an&aacute;lisis del texto e historia del teatro.
 
