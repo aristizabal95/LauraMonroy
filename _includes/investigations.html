@@ -17,7 +17,7 @@
       {% endif %}
       <div class="col-md-4 col-lg-4">
         <a href="{{ investigation.path | prepend: site.baseurl }}" class="project-link" target="_blank">
-            <div class="project-hover" style="background-color: black">
+            <div class="project-hover" style="background-color: {{investigation.bg_color}}">
                 <div class="project-hover-content">
                   <h6>{{investigation.title}}</h6>
                   <hr/>
