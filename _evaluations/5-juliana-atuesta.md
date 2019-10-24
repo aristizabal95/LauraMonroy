@@ -1,7 +1,7 @@
 ---
 layout: evaluation
-name: Evaluación docente de Laura María Monroy-García
-title: Juliana Atuesta
+name: Juliana Atuesta
+title: Evaluación docente
 description:
 header:
 image: /uploads/whatsapp-image-2019-10-22-at-4-26-30-pm.jpeg
