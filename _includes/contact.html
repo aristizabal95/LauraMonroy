@@ -19,7 +19,7 @@
               <div class="col-lg-12">
                 <h3 class="editable">Teléfono: </h3><h4><a href="tel:{{site.data.template.phone}}">{{site.data.template.phone}}</a></h4>
                 <h3 class="editable">Correo electrónico: </h3><h4><a href="mailto:{{site.data.template.email}}">{{site.data.template.email}}</a></h4>
-                <a href="{{site.data.template.cv_path}}" class="button-link editable">CV</a>
+                <a href="{{site.data.template.cv_path}}" class="button-link editable" target="_blank">CV</a>
                 <ul class="list-inline social-buttons">
                   {% for network in site.data.template.social %}
                   <li><a href="{{ network.url }}" target="_blank"><i class="fa fa-{{ network.title }}"></i></a>
