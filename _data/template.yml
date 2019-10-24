@@ -27,7 +27,7 @@ color:
   yellow: '#ffc115'
   pink: '#fbdefc'
   skin: '#d9af8c'
-  skin-light: '#ecbfae'
+  skin-light: '#e6c4a8'
   blue: '#72c7ef'
 font:
   primary: '"Times New Roman", serif'
