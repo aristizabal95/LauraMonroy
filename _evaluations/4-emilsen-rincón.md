@@ -1,7 +1,7 @@
 ---
 layout: evaluation
 name: Emilsen Rincón
-title: Evaluación docente de Laura María Monroy-García
+title: Evaluación docente
 description:
 header:
 image: /uploads/emilsen.jpeg
