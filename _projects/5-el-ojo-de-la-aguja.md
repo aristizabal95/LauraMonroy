@@ -3,7 +3,7 @@ title: El Ojo de la Aguja (2015)
 subtitle: 'Dirección: Rogelio López'
 description: Ensamble de danza.
 image: /img/projects/el-ojo-de-la-aguila/a.JPG
-bg_color: '#471f32'
+bg_color: '#e6c4a8'
 gallery:
   - path: /img/projects/el-ojo-de-la-aguila/a.JPG
     desc:
