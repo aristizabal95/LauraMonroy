@@ -3,7 +3,7 @@ title: Maravillosas Ocupaciones (2019)
 subtitle: 'Dirección: Juliana Atuesta'
 description: Ensamble de danza.
 image: /img/projects/maravillosas-ocupaciones/1.jpg
-bg_color: '#471f32'
+bg_color: '#e6c4a8'
 gallery:
   - path: /img/projects/maravillosas-ocupaciones/1.jpg
     desc:
