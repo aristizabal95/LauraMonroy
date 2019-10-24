@@ -3,7 +3,7 @@ title: Año Uno (2017)
 subtitle: 'Dirección: Rogelio López'
 description: Ensamble de danza.
 image: /img/projects/año-uno/1.JPG
-bg_color: '#dea6a6'
+bg_color: '#e6c4a8'
 gallery:
   - path: /img/projects/año-uno/1.JPG
     desc:
