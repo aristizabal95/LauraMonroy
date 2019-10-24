@@ -13,7 +13,7 @@ description: >-
   Colectivo Undecaeto: investigacion-creación en artes escénicas, música e
   improvisación.
 image: /uploads/01-fashion-film.jpg
-bg_color: '#e9afaf'
+bg_color: '#e6c4a8'
 gallery:
   - path: /uploads/01-fashion-film.jpg
     desc: Fashion Film (2018)
