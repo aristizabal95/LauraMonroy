@@ -3,7 +3,7 @@ title: Sin Querer (2016)
 subtitle: con Elena Steremberg
 description: Ensamble de creación colaborativa
 image: /img/projects/sin-querer/1.JPG
-bg_color: '#72c7ef'
+bg_color: '#e6c4a8'
 gallery:
   - path: /img/projects/sin-querer/1.JPG
     desc:
