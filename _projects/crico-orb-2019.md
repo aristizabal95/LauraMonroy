@@ -18,4 +18,7 @@ gallery:
   - path: /uploads/crico5.png
     desc:
 ---
+
 Im&aacute;genes: **&Aacute;ngelo Lucco**
+
+Ver obra completa [ac&aacute;](https://www.youtube.com/watch?v=vLhdZ3sn6TU)
