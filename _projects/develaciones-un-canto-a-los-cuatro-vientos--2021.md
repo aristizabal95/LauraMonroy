@@ -12,4 +12,5 @@ gallery:
   - path: /uploads/develaciones2.png
     desc: 'Imagen tomada del programa de mano '
 ---
+
 Algunas im&aacute;genes de **Federico R&iacute;os** en [Instagram](https://www.instagram.com/p/CXH1C7_rXIu/)
