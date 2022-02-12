@@ -1085,6 +1085,15 @@ article.project-content {
   text-align: justify;
 }
 
+article.project-content a {
+  text-decoration: underline;
+  color: #0000EE;
+}
+
+article.project-content a:visited {
+  color: #551A8B;
+}
+
 .videoWrapper {
   position: relative;
 	padding-bottom: 56.25%; /* 16:9 */
